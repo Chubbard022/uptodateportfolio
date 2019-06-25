@@ -1,2 +1,2 @@
-# uptodateportfolio
-newest and latest protfolio
+# Curtis Hubbard
+Thank you so much for looking at my portfolio! 
