@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/Users/curtishubbard/Desktop/html5Portfolio/cpanel_repo/uptodateportfolio/index.html
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
