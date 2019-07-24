@@ -2619,6 +2619,7 @@ input, select, textarea {
 	.features {
 		display: flex;
 		flex-wrap: wrap;
+		justify-content: space-between
 	}
 
 		@media screen and (max-width: 980px) {
@@ -3523,4 +3524,7 @@ input, select, textarea {
 }
 .buttonResume{
 	text-decoration: none;
+}
+.biggerIcon{
+	font-size: 30px;
 }
